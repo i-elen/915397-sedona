@@ -1,5 +1,5 @@
 .main-header{
-background: white url("logo.svg") no-repeat 50% top scroll;
+background: white url("../img/logo.svg") no-repeat 50% top scroll;
 }
 
 .picture{
@@ -9,15 +9,15 @@ text-transform: uppercase;
 font-size: 30px;
 font-weight: bold;
 text-align: center;
-background: white url("IMG_9190.jpg") no-repeat 50% 200px scroll;
+background: white url("../img/IMG_9190.jpg") no-repeat 50% 200px scroll;
 
 }
 .column1{
-    float: left;
+
 }
-.column1{
-    float: center;
+.column2{
+
 }
-.column1{
-    float: right;
+.column3{
+
 }
